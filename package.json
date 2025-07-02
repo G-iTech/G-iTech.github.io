@@ -2,7 +2,7 @@
   "name": "volunteer-yatra",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://g-itech.github.io/projects/volunteer-yatra",
+  "homepage": "https://g-itech.github.io/main",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
