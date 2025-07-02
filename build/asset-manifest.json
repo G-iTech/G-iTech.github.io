@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/projects/volunteer-yatra/static/css/main.dcf0c5d8.css",
+    "main.js": "/projects/volunteer-yatra/static/js/main.80d549f4.js",
+    "index.html": "/projects/volunteer-yatra/index.html",
+    "main.dcf0c5d8.css.map": "/projects/volunteer-yatra/static/css/main.dcf0c5d8.css.map",
+    "main.80d549f4.js.map": "/projects/volunteer-yatra/static/js/main.80d549f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf0c5d8.css",
+    "static/js/main.80d549f4.js"
+  ]
+}
